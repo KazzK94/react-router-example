@@ -1,0 +1,17 @@
+
+.navbar-top {
+	background-color: #08090a;
+	border-bottom: 1px solid #e9ecef;
+	position: fixed;
+	inset: 0;
+	bottom: auto;
+	height: 64px;
+}
+
+.navbar-top ul {
+	height: 100%;
+	margin: 0;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
